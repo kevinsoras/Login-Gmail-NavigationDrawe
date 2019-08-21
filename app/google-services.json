@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647894015521",
+    "firebase_url": "https://loginmobiles-5751a.firebaseio.com",
+    "project_id": "loginmobiles-5751a",
+    "storage_bucket": "loginmobiles-5751a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647894015521:android:3dec548b48224f49",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647894015521-9vc8fkij9hitglju73d41fvgk796r2pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJCoMFZE8LjXEUVVlLiCeZYPNNMkeNpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647894015521-9vc8fkij9hitglju73d41fvgk796r2pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
